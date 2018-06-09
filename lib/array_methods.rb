@@ -1,6 +1,7 @@
 def using_include(array, element)
   myArray = ["wow", "I", "am", "really", "learning", "arrays!"]
-  element1 = ""
+  element1 = "wow"
+  element2 = "Tardis"
   array.include?("item3")
 end
 
